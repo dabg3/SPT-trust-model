@@ -1,0 +1,30 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# ignore all .idea files ...
+*
+# except  ...
+
+# This .gitignore
+!.gitignore
+
+# Version Control configuration
+!vcs.xml
+
+# how IDEA should treat the text files
+!encodings.xml
+
+# automatic code formatting
+!codeStyleSettings.xml
+
+# project specific words
+!dictionaries
+
+!copyrights
+!misc.xml
+!sqldialects.xml
