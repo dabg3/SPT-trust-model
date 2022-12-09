@@ -4,4 +4,4 @@ The work is fully based on the paper 'A C2C E-COMMERCE TRUST MODEL BASED ON REPU
 It can be found [here](http://www.jatit.org/volumes/Vol96No11/27Vol96No11.pdf)
 
 ## Status
-Currenlty It's been closed-sourced due to licensing issues. It will be release as OSS again once I solve those.
+Currenlty It's been closed-sourced due to licensing issues. It's gonna be released as OSS again once I solve those.
